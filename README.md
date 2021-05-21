@@ -1,5 +1,5 @@
 # SQL-Coursework
-This is my work on the sql coursework in Year 2 Tri1 at Napier.
+This is my work on the SQL coursework in Year 2 Tri1 at Napier.
 
 The purpose of this coursework was to query in the correct way a database (not made by me) in order to retrieve what the questions asked.
 The questions I've answered to where:
